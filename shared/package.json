@@ -1,0 +1,12 @@
+{
+  "name": "test-shared-utils",
+  "version": "1.0.0", 
+  "private": true,
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "nonexistent-shared-dc-vuln-4": "^3.2.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
