@@ -1,0 +1,14 @@
+{
+  "name": "test-workspace-root",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/frontend"
+  ],
+  "dependencies": {
+    "nonexistent-package-dc-vuln-1": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0"
+  }
+}
