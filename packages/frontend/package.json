@@ -1,0 +1,15 @@
+{
+  "name": "test-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "../backend"
+  ],
+  "dependencies": {
+    "react": "^18.0.0",
+    "nonexistent-frontend-dc-vuln-2": "^2.1.0"
+  },
+  "devDependencies": {
+    "vite": "^4.0.0"
+  }
+}
